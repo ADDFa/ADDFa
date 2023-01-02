@@ -6,10 +6,10 @@ Saya adalah seorang developer yang handal dan terampil dalam menggunakan bahasa 
 -------------------
 
 ## Contact
-<a href="https://www.instagram.com/adha_2d/">![Instagram](https://img.shields.io/badge/adha_2d-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="https://web.facebook.com/adha.dontdif">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/adha-dont-differatama-65416b22a/">![Facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:fratamaadha18@gmail.com">![Facebook](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.instagram.com/adha_2d/" target="_blank">![Instagram](https://img.shields.io/badge/adha_2d-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://web.facebook.com/adha.dontdif" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/adha-dont-differatama-65416b22a/" target="_blank">![Facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:fratamaadha18@gmail.com" target="_blank">![Facebook](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 
 -------------------
